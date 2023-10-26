@@ -1,4 +1,4 @@
-### Hi, I'm Mateusz
+## 👋 Hi, I'm Mateusz
 20-year-old Frontend Developer from Poland.
 
 - 🧑‍💻 Frontent Developer @ [SaturdaysHeroes](https://saturdaysheroes.dev)
