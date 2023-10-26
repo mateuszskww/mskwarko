@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Mateusz
+20-year-old Frontend Developer from Poland.
+
+- 🧑‍💻 Frontent Developer @ [SaturdaysHeroes](https://saturdaysheroes.dev)
+- 🎓 CS Student @ [PJAIT](https://pja.edu.pl/en/)
 
 <!--
 **mskwarko/mskwarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
