@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Mateusz
-20-year-old Frontend Developer from Poland.
+21-year-old Frontend Developer from Poland.
 
-- 🧑‍💻 Frontent Developer @ [SaturdaysHeroes](https://saturdaysheroes.dev)
+- 🧑‍💻 Frontend Developer @ [SaturdaysHeroes](https://saturdaysheroes.dev) & [MagmaMath](https://www.magmamath.com/)
 - 🎓 CS Student @ [PJAIT](https://pja.edu.pl/en/)
 
 <!--
